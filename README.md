@@ -21,8 +21,8 @@ TypeScriptを使用したMVCパターンのTodoアプリケーションです。
 
 1. リポジトリをクローン
 ```bash
-git clone <repository-url>
-cd typescript-mvc-app
+git clone https://github.com/Moriita/Sample.git
+cd Sample
 ```
 
 2. 依存関係のインストール
@@ -70,4 +70,12 @@ src/
 
 ## ライセンス
 
-MIT 
+MIT
+
+## コントリビューション
+
+1. このリポジトリをフォーク
+2. 新しいブランチを作成 (`git checkout -b feature/amazing-feature`)
+3. 変更をコミット (`git commit -m 'Add some amazing feature'`)
+4. ブランチにプッシュ (`git push origin feature/amazing-feature`)
+5. プルリクエストを作成 
